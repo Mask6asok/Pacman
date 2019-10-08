@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/img/eye.gif</file>
+        <file>source/img/Ghost1.gif</file>
+        <file>source/img/Ghost2.gif</file>
+        <file>source/img/Ghost3.gif</file>
+        <file>source/img/Ghost4.gif</file>
+        <file>source/img/hj.gif</file>
+        <file>source/img/logo.png</file>
+        <file>source/img/map.png</file>
+        <file>source/img/map-logo.png</file>
+        <file>source/img/pause.png</file>
+        <file>source/img/play.png</file>
+        <file>source/img/playerA.gif</file>
+        <file>source/img/playerD.gif</file>
+        <file>source/img/playerS.gif</file>
+        <file>source/img/playerW.gif</file>
+        <file>source/img/repeat.png</file>
+        <file>source/img/scared.gif</file>
+        <file>source/img/shine.gif</file>
+        <file>source/img/stop.png</file>
+        <file>source/img/welcome.jpg</file>
+        <file>source/img/welcome.psd</file>
+        <file>source/media/bgm.mp3</file>
+        <file>source/media/eat.mp3</file>
+        <file>source/media/eaten.mp3</file>
+        <file>source/media/gameover.mp3</file>
+        <file>source/media/power.mp3</file>
+        <file>source/media/win.mp3</file>
+    </qresource>
+</RCC>
